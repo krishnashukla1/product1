@@ -1,0 +1,44 @@
+[
+  {
+    "productId": 2,
+    "productName": "Ford 1",
+    "productDescription": "Racing car",
+    "productImage": null,
+    "isActive": true
+  },
+  {
+    "productId": 3,
+    "productName": "Ford 3",
+    "productDescription": "Racing car",
+    "productImage": null,
+    "isActive": true
+  },
+  {
+    "productId": "5",
+    "productName": "Maruti",
+    "productDescription": "Racing car",
+    "productImage": "/public/images/fad2a30d-77a3-406b-838b-ddd80309c5c8-desktop-1024x576.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "6",
+    "productName": "Mahindra",
+    "productDescription": "Racing car",
+    "productImage": "/public/images/6d3bb461-6328-4402-aaa5-a602cd86be9d-442529.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "7",
+    "productName": "tata",
+    "productDescription": "Racing car",
+    "productImage": "/public/images/6b469676-0b3e-4fd2-9cbc-57db7b27a83b-741420.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "4",
+    "productName": "suzuki",
+    "productDescription": "Racing car",
+    "productImage": "/public/images/36f8d010-1ecd-43f8-b739-362a11f4debc-928106.jpg",
+    "isActive": true
+  }
+]
